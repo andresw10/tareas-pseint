@@ -2,21 +2,21 @@ Algoritmo punto_5_taller_de_variables_e_impresión
 	
 	Escribir "nombre de su mascota"
 	
-	Leer nombre
+	Leer nombremascota
 	
 	Escribir "edad de la mascota"
 	
 	Leer edad
 	
-	Escribir "el tipo de mascota"
+	Escribir "el tipo de animal es"
 	
-	Leer mascota
+	Leer animal
 	
-	Escribir "su nombre completo"
+	Escribir "su nombre del propietario"
 	
-	Leer nombrecompleto
+	Leer nombredueño
 	
-	Escribir  Nombre " es un "  mascota " el cual tiene " Edad "año de edad" " y " nombrecompleto " es actualmente su dueño"
+	Escribir  Nombremascota " es un "  animal " el cual tiene " Edad "año de edad" " y " nombredueño " es actualmente su dueño"
 	
 	
 	
