@@ -1,3 +1,9 @@
+Funcion consulta ( moto )
+	Para i<-1 Hasta 3 Con Paso 1 Hacer
+		Escribir "Fecha de ingreso..." moto[i,1] ", Observaciones del cliente...."  moto[i,2] ", Fecha de Salida...." moto[i,3] ". Observaciones del Mecanico--> " moto[i,4]
+	Fin Para
+Fin Funcion
+
 Funcion salida ( moto )
 	Escribir "salida de moto"
 	
@@ -35,11 +41,13 @@ Algoritmo sin_titulo
 	Dimension  moto[3,4]
 	
 	Repetir
-		
-		Escribir "---------motos-----------"
 		Escribir "--------------------------------------"
-		Escribir "-       [1] ingreso de moto"
-		Escribir "-       [2] salida de moto" 
+		Escribir "---------------MOTOS------------------"
+		Escribir "--------------------------------------"
+		Escribir "-       [1] ingreso de moto          -"
+		Escribir "-       [2] salida de moto           -" 
+		Escribir "-       [3] consulta                 -" 
+		Escribir "-       [4] salir                    -" 
 		Escribir "--------------------------------------"
 		Escribir "digite una opcion"
 		
@@ -49,13 +57,13 @@ Algoritmo sin_titulo
 		Segun datos Hacer
 			"1":
 				
-				ingreso ( moto )
+				ingreso( moto )
 				
 			"2":
-				salida ( moto )
+				salida( moto )
 				
-			"3":
-				Escribir "---------adios-----------"
+			"3":consulta( moto )
+			"4":Escribir "---------adios-----------"
 			De Otro Modo:
 				Escribir "no es una opcion disponible"
 				
@@ -63,7 +71,7 @@ Algoritmo sin_titulo
 		
 		Esperar Tecla
 		Limpiar Pantalla
-	Hasta Que datos="3"
+	Hasta Que datos="4"
 	
 	
 	

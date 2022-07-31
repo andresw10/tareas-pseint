@@ -1,9 +1,4 @@
-Algoritmo punto7
-	Escribir "Peso [kg]"
-	Leer peso
-	Escribir "Estatura [mtr]"
-	Leer estatura
-	indice=peso/(estatura*estatura)
+Funcion mensaje ( indice )
 	si indice <18.5 Entonces
 		Escribir "bajo de peso"
 	SiNo
@@ -19,4 +14,13 @@ Algoritmo punto7
 			
 		FinSi
 	FinSi
+Fin Funcion
+
+Algoritmo sin_titulo
+	Escribir "Peso [kg]"
+	Leer peso
+	Escribir "Estatura [mtr]"
+	Leer estatura
+	indice=peso/(estatura*estatura)
+	mensaje( indice )
 FinAlgoritmo
