@@ -1,4 +1,4 @@
-Algoritmo punto_4_taller_de_variables_e_impresión
+Algoritmo punto_4_taller_de_variables_e_impresiÃ³n
 	
 	Escribir "cual es la capital de colombia?"
 	
@@ -10,24 +10,6 @@ Algoritmo punto_4_taller_de_variables_e_impresión
 	
 	Escribir "La ciudad de " capital " es la capital de " pais
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 	
 FinAlgoritmo
