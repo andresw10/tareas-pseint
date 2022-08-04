@@ -1,19 +1,8 @@
 Algoritmo PUNTO6
 	
-	
-	
-	
 	Dimension  moto[3,4]
 	
-	
-
-
 	Repetir
-		
-		
-		
-		
-		
 		
 		Escribir "---------PELICULAS PORVENIR-----------"
 		Escribir "--------------------------------------"
@@ -72,19 +61,6 @@ Algoritmo PUNTO6
 	
 	
 	Escribir "---------adios-----------"
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 FinAlgoritmo
