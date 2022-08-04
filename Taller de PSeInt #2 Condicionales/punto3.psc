@@ -17,24 +17,9 @@ Algoritmo PUNTO3
 		Escribir nombre " " apellido1 " " apellido2 "usted es mayor de edad por lo tanto puede entrar a la fiesta"
 		
 	SiNo 
-		Escribir nombre " " apellido1 " " apellido2  "usted es menor de edad, por lo tanto, no puede entrar a la fiesta, por favor devuélvase a su casa."
+		Escribir nombre " " apellido1 " " apellido2  "usted es menor de edad, por lo tanto, no puede entrar a la fiesta, por favor devuÃ©lvase a su casa."
 		
 		
 	Fin Si
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 FinAlgoritmo
