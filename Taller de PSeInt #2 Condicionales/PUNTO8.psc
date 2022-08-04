@@ -3,12 +3,7 @@ Algoritmo PUNTO8
 	tortas_disponible=60
 	
 	Repetir
-		
-		
-		
-		
-		
-		
+			
 		Escribir "---------PELICULAS PORVENIR-----------"
 		Escribir "--------------------------------------"
 		Escribir "-       [1] Registrar pedidos"
@@ -18,8 +13,7 @@ Algoritmo PUNTO8
 		Escribir "digite una opcion"
 		
 		Leer datos
-		
-		
+
 		Segun datos Hacer
 			1:
 			Escribir "pedido"
