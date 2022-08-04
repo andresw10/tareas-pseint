@@ -1,13 +1,9 @@
 Algoritmo PUNTO9
-	
-	
 	Repetir
-		
-		
 		Escribir "---------Calcular area de-----------"
 		Escribir "--------------------------------------"
-		Escribir "-       [1] rectángulo"
-		Escribir "-       [2] triángulo" 
+		Escribir "-       [1] rectÃ¡ngulo"
+		Escribir "-       [2] triÃ¡ngulo" 
 		Escribir "-       [3] trapecio"
 		Escribir "--------------------------------------"
 		Escribir "digite una opcion"
@@ -16,7 +12,7 @@ Algoritmo PUNTO9
 		
 		Segun datos Hacer
 			1:
-				Escribir "area de rectángulo"
+				Escribir "area de rectÃ¡ngulo"
 				
 				Escribir "medida de base"
 				Leer b1
@@ -24,7 +20,7 @@ Algoritmo PUNTO9
 				Leer  h
 				Escribir "Area " b1*h
 			2:
-				Escribir "area de triángulo"
+				Escribir "area de triÃ¡ngulo"
 				Escribir "medida de base"
 				Leer b1
 				Escribir "medida de altura"
