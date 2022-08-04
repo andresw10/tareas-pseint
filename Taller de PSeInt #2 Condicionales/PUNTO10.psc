@@ -6,12 +6,7 @@ Algoritmo PUNTO10
 	Leer cantidad
 	
 	Repetir
-		
-		
-		
-		
-		
-		
+	
 		Escribir "---------Su banco fiel-----------"
 		Escribir "--------------------------------------"
 		Escribir "-       [1] Meter plata"
